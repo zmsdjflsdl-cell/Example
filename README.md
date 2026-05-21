@@ -4,4 +4,4 @@
  - 유니티 내용 정리
  - C# 내용 정리
  - 키워드 정리
-   - [ALU](./KEyWord/ALU.md)
+   - [ALU](./KeyWord/ALU.md)
