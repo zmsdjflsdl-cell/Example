@@ -26,3 +26,4 @@
 
  - 키워드 정리
    - [ALU](./KeyWord/ALU.md)
+   - [Shifter](./KeyWord/Shifter.md)
