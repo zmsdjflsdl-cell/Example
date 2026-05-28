@@ -29,3 +29,4 @@
    - [Shifter](./KeyWord/Shifter.md)
    - [AdressBus](./KeyWord/AdressBus.md)
    - [DataBus](./KeyWord/DataBus.md)
+   - [ControlBus](./KeyWord/ControlBus.md)
