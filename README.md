@@ -30,3 +30,5 @@
    - [AdressBus](./KeyWord/AdressBus.md)
    - [DataBus](./KeyWord/DataBus.md)
    - [ControlBus](./KeyWord/ControlBus.md)
+   - [InstructionCycle](./KeyWord/InstructionCycle.md)
+   - [FetchCycle](./KeyWord/FetchCycle.md)
