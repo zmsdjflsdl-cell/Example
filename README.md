@@ -32,3 +32,5 @@
    - [ControlBus](./KeyWord/ControlBus.md)
    - [InstructionCycle](./KeyWord/InstructionCycle.md)
    - [FetchCycle](./KeyWord/FetchCycle.md)
+   - [IndirectCycle](./KeyWord/IndirectCycle/.md)
+   - [ExecutionCycle](./KeyWord/ExecutionCycle.md)
