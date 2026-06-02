@@ -34,3 +34,4 @@
    - [FetchCycle](./KeyWord/FetchCycle.md)
    - [IndirectCycle](./KeyWord/IndirectCycle/.md)
    - [ExecutionCycle](./KeyWord/ExecutionCycle.md)
+   - [CashMemory](./KeyWord/CashMemory.md)
