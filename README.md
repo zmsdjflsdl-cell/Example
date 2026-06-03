@@ -35,3 +35,4 @@
    - [IndirectCycle](./KeyWord/IndirectCycle/.md)
    - [ExecutionCycle](./KeyWord/ExecutionCycle.md)
    - [CashMemory](./KeyWord/CashMemory.md)
+   - [Locality](./KeyWord/Locality.md)
