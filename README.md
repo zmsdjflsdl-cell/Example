@@ -36,3 +36,4 @@
    - [ExecutionCycle](./KeyWord/ExecutionCycle.md)
    - [CashMemory](./KeyWord/CashMemory.md)
    - [Locality](./KeyWord/Locality.md)
+   - [CacheCoherence](./KeyWord/CacheCoherence.md)
