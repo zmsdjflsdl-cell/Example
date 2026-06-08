@@ -37,3 +37,4 @@
    - [CashMemory](./KeyWord/CashMemory.md)
    - [Locality](./KeyWord/Locality.md)
    - [CacheCoherence](./KeyWord/CacheCoherence.md)
+   - [CacheMemoryMapping](./KeyWord/CacheMapping.md)
