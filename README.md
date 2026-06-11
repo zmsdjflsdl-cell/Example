@@ -40,3 +40,4 @@
    - [CacheMemoryMapping](./KeyWord/CacheMapping.md)
    - [VMMP(가상메모리 관리정책)](./KeyWord/VirtualMemoryManagementPolicy.md)
    - [VMP(가상메모리 페이징)](./KeyWord/VirtualMemoryPaging.md)
+   - [VMS(가상메모리 세그먼테이션)](./KeyWord/VirtualMemorySegmentation.md)
