@@ -38,3 +38,4 @@
    - [Locality](./KeyWord/Locality.md)
    - [CacheCoherence](./KeyWord/CacheCoherence.md)
    - [CacheMemoryMapping](./KeyWord/CacheMapping.md)
+   - [VMMP(가상메모리 관리정책)](./KeyWord/VirtualMemoryManagementPolicy.md)
